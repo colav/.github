@@ -7,7 +7,7 @@ Colav is a colaboratory for the development of computational social sciences and
 
 We work in collaboration through formal alliances. All the code and software developed answer institutional requirements for their own evaluation processes. The success in the application of those developments depends on the institutional commitment to each project. Once those codes or software are published, any user can make use of them. The use of our material is part of our involvement strategy. Every run of these codes or software from external institutions made us better as software and strategy developers.
 
-# Our platform links
+# Our platforms
 * https://impactu.colav.co/app/
 * https://apis.colav.co/apidoc/index.html
 
